@@ -12,7 +12,7 @@ Find the data here https://ia803104.us.archive.org/27/items/advertising_201910/a
 # Environment and tools
  1. R studio
  2. R programming language
- >tidyverse
- >magritrr
- >ggcorrplot
- >ggExtra
+ > tidyverse
+ > magritrr
+ > ggcorrplot
+ > ggExtra
